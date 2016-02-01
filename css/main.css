@@ -1,0 +1,39 @@
+body{
+	width: 100%;
+	margin: 0 auto;
+	font-family: Times New Roman;
+}
+header{
+	position: fixed;
+	margin: 0 auto;
+	width: 908px;
+	left: 50%;
+	margin-left: -454px;
+	z-index: 2;
+}
+.issues{
+	margin: 0 auto;
+	background: red;
+	margin-top: 210px;
+	position: absolute;
+	z-index: 0;
+	width: 100%;
+	font-weight: bold;
+}
+
+.coverContainer{
+	margin-top: 208px;
+	position: absolute;
+}
+.coverPlaceHolder{
+	background: #e6e6e6;
+	height: 397px;
+}
+.coverPlaceHolder img{
+	width: 100%;
+}
+
+.about{
+	color: #6c6c6c;
+	margin-top: 32px;
+}
